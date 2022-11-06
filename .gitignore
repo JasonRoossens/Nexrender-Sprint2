@@ -1,0 +1,25 @@
+# folders
+.sync/
+node_modules/
+misc/ignored/
+bin/
+result
+results
+temp
+
+# files
+*.log
+.env
+
+# Editors
+.idea
+*.iml
+
+# OS metadata
+.DS_Store
+Thumbs.
+
+notmytest.js
+
+# https://github.com/inlife/nexrender/pull/307#issuecomment-581802928
+yarn.lock
